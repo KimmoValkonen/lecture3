@@ -3,7 +3,7 @@
 ## Topics
 
 - Review
-- Algorithm techniques: **Sorting**
+- Algorithm techniques:
   - Brute Force
   - Decrease-and-Conquer
 - Analyses tool(s): Big $O$
@@ -12,7 +12,7 @@
 
 ## Part 0: Review
 
-- Algorithm techniques: **Searching**
+- Algorithm techniques:
   - Brute Force: [Linear search](https://www.cs.usfca.edu/~galles/visualization/Search.html)
   - Decrease-and-Conquer: [Binary Search](https://www.cs.usfca.edu/~galles/visualization/Search.html)
   - Divide-and-Conquer
@@ -46,8 +46,8 @@
 - Algorithm techniques: **decrease and conquer**
   - Insertion sort
   - Big $O$ analysis
+  - Average case vs worst case
 - [Activity 2](./activity2/README.md)
-<!-- average case vs worst case -->
 
 ---
 

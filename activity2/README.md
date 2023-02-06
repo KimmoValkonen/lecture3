@@ -2,7 +2,7 @@
 
 ## Task 1
 
-- Refer to the following link. Discuss how bubble Insertion works:
+- Refer to the following link. Discuss how Insertion sort works:
   https://opendsa-server.cs.vt.edu/ODSA/AV/Sorting/insertionsortAV.html
 
 ## Task 2

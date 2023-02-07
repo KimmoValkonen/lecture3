@@ -5,6 +5,8 @@
 - Refer to the following link. Discuss how Insertion sort works:
   https://opendsa-server.cs.vt.edu/ODSA/AV/Sorting/insertionsortAV.html
 
+# Answer: Insertion starts sorting from left and compares to all variables that are already handled
+
 ## Task 2
 
 - The following snippet is from `./src/insertion.cpp` lines 12-22. Discuss in groups how the code works:
@@ -22,6 +24,8 @@
         myarray[j + 1] = temp;
     }
 ```
+# Answer: This is example of insertion sort, it sorts from small-->large by comparing all previous cases
+
 
 ## Task 3
 
